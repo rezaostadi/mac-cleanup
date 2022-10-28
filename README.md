@@ -1,4 +1,4 @@
-# mac-cleanup
+# mac m1 clean-up
 
 ### A cleanup script for macOS
 
